@@ -98,6 +98,14 @@ py --list
 
 ---
 
+## 🖼️ Assets e Arte
+
+Todos os ícones, sprites e recursos visuais deste projeto foram criados por
+Ana Manuella dos Santos Lopes e não podem ser reutilizados sem autorização.
+
+
+---
+
 
 # 👩‍💻 Autora
 
