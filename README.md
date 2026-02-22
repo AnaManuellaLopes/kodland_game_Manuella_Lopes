@@ -102,6 +102,9 @@ py --list
 # 👩‍💻 Autora
 
 Ana Manuella dos Santos Lopes
+
   Tecnóloga em Análise e Desenvolvimento de Sistemas
+  
   Graduanda em Pedagogia (ênfase em Psicopedagogia Diferencial)
+  
   Professora de Informática
